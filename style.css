@@ -1,0 +1,67 @@
+h1{
+color: green;  
+font-family: sans-serif;  
+}
+h3{
+    color: rgb(128, 100, 0);    
+    }
+h4{
+    font-family: Impact, fantasy;
+    font-size: 20px;
+    font-style: initial;
+    color: rgb(16, 77, 184);
+}
+p{
+color: rgb(161, 53, 53);
+font-family:'Times New Roman';
+}
+
+ul{
+list-style-type: circle;
+}
+
+ul{
+    list-style-image: url("Images2/pointer-icon.png");
+    }
+
+ol{
+list-style-type: upper-roman;
+}
+
+a{
+font-family: Helvetica, sans-serif;
+text-decoration: none;
+background-color: aquamarine;
+padding: 5px;
+}
+a:hover{
+background-color: aqua;
+color: #ffffff;
+}
+
+menu-bar a{
+font-family: Helvetica, sans-serif;
+text-decoration: none;
+background-color: aquamarine;
+padding: 5px;
+}
+
+#menu-bar a{
+font-family: Helvetica, sans-serif;
+text-decoration: none;
+background-color: aquamarine
+padding: 5px;
+}
+
+#menu-bar a:hover{
+    background-color: aqua;
+    color: #ffffff;
+}
+.gallery img{
+    width:100%;
+}
+#menu{
+    width: 100%;
+    height:60px;
+    background-color: rgb(237, 194, 100);
+}
